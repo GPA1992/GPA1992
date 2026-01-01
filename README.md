@@ -1,5 +1,5 @@
 ## Olá, sou o Gabriel Proença de Araujo 
-- 💻 Desenvolvedor Fullstack com TypeScript | Angular | Java | Spring Boot | NODEjs | NextJs | SQLServer | AWS | Docker
+- 💻 Desenvolvedor Fullstack com TypeScript | React | Next | Node | Angular | Java | Spring Boot | SQLServer | AWS | Docker
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas | PUCPR
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
 - 🧐 LinkedIn.: https://www.linkedin.com/in/gabrielproencaaraujo
